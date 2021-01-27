@@ -45,7 +45,7 @@ const Navbar = () => {
           variant="h2"
           align="center"
         >
-          Memories
+          MemoryGo
         </Typography>
         <img className={classes.image} src={memories} alt="icon" height="60" />
       </div>
