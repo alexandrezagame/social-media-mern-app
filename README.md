@@ -1,9 +1,9 @@
-##memories social media app
+# MemoryGo
 
-The App is called "Memories" and it is a simple social media MERN application that allows users to post interesting events that happened in their lives. I am using React, Node.js, Express & MongoDBto build a Full Stack MERN Project.
+https://memorygo.zeet.app/
 
-Using React, Node.js, Express & MongoDB to build a Full Stack MERN Application
+## Description
+The App is called "Memorygo" and it is a simple social media MERN application that allows users to post interesting events that happened in their lives and like other people posts.
 
-Setup:
-
-- run `npm i && npm start` for both client and server side to start the app
+## Technology
+I am using React, Node.js, Express & MongoDB to build a Full Stack MERN Project. I am deploying my database, frontend and backend on Zeet.co
